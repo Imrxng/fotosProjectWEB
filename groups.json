@@ -1,0 +1,92 @@
+[
+  {
+    "id": 3001,
+    "name": "Straw Hat Pirates",
+    "logo": "https://raw.githubusercontent.com/Imrxng/fotosProjectWEB/main/strawhats.webp",
+    "captain": "Monkey D. Luffy",
+    "base": "Thousand Sunny",
+    "territory": "Grand Line",
+    "totalBounty": 8816001000
+  },
+  {
+    "id": 3204,
+    "name": "Kuja Pirates",
+    "logo": "https://raw.githubusercontent.com/Imrxng/fotosProjectWEB/main/kuja.webp",
+    "captain": "Boa Hancock",
+    "base": "Amazon Lily",
+    "territory": "Calm Belt",
+    "totalBounty": 1739000000
+  },
+  {
+    "id": 3211,
+    "name": "Big Mom Pirates",
+    "logo": "https://raw.githubusercontent.com/Imrxng/fotosProjectWEB/main/bigmom.webp",
+    "captain": "Charlotte Katakuri",
+    "base": "Whole Cake Island",
+    "territory": "New World",
+    "totalBounty": 10121500000
+  },
+  {
+    "id": 3210,
+    "name": "Revolutionary Army",
+    "logo": "https://raw.githubusercontent.com/Imrxng/fotosProjectWEB/main/revolutionary.webp",
+    "captain": "Monkey D. Dragon",
+    "base": "Kamabakka Kingdom",
+    "territory": "Grand Line",
+    "totalBounty": 2564000000
+  },
+  {
+    "id": 3202,
+    "name": "Heart Pirates",
+    "logo": "https://raw.githubusercontent.com/Imrxng/fotosProjectWEB/main/heart.webp",
+    "captain": "Trafalgar D. Water Law",
+    "base": "Sabaody Archipelago",
+    "territory": "New World",
+    "totalBounty": 3000000500
+  },
+  {
+    "id": 3214,
+    "name": "Marines",
+    "logo": "https://raw.githubusercontent.com/Imrxng/fotosProjectWEB/main/marine.webp",
+    "captain": "Sakazuki Akainu",
+    "base": "Marine Headquarters",
+    "territory": "Worldwide",
+    "totalBounty": 170000000000
+  },
+  {
+    "id": 3218,
+    "name": "Blackbeard Pirates",
+    "logo": "https://raw.githubusercontent.com/Imrxng/fotosProjectWEB/main/blackbeardpirates.webp",
+    "captain": "Marshal D. Teach",
+    "base": "Pirate Island",
+    "territory": "New World",
+    "totalBounty": 4194200000
+  },
+  {
+    "id": 3215,
+    "name": "Donquixote Pirates",
+    "logo": "https://raw.githubusercontent.com/Imrxng/fotosProjectWEB/main/donquixotepirates.webp",
+    "captain": "Donquixote Doflamingo",
+    "base": "Dressrosa",
+    "territory": "New World",
+    "totalBounty": 813000000
+  },
+  {
+    "id": 3208,
+    "name": "Whitebeard Pirates",
+    "logo": "https://raw.githubusercontent.com/Imrxng/fotosProjectWEB/main/whitebeardpirates.webp ",
+    "captain": "Edward Newgate",
+    "base": "Sphinx",
+    "territory": "New World",
+    "totalBounty": 7480000000
+  },
+  {
+    "id": 4001,
+    "name": "Cross Guild",
+    "logo": "https://raw.githubusercontent.com/Imrxng/fotosProjectWEB/main/crossguildpirates.webp",
+    "captain": "Buggy The Clown",
+    "base": null,
+    "territory": "Worldwide",
+    "totalBounty": 8848000000
+  }
+]
