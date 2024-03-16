@@ -8,7 +8,7 @@
       "entryDate": "1999-05-05",
       "bounty": 3000000000,
       "profileImageUrl": "https://raw.githubusercontent.com/Imrxng/fotosProjectWEB/main/luffy.webp",
-      "isAlive": true,
+      "isOnline": true,
       "position": "Pirate",
       "hobbies": [
         "Training",
@@ -34,7 +34,7 @@
       "entryDate": "1999-05-05",
       "bounty": 1111000000,
       "profileImageUrl": "https://raw.githubusercontent.com/Imrxng/fotosProjectWEB/main/zoro.webp",
-      "isAlive": true,
+      "isOnline": true,
       "position": "Pirate",
       "hobbies": [
         "Swordsmanship",
@@ -60,7 +60,7 @@
       "entryDate": "2019-03-17",
       "bounty": 1100000000,
       "profileImageUrl": "https://raw.githubusercontent.com/Imrxng/fotosProjectWEB/main/jinbe.webp",
-      "isAlive": true,
+      "isOnline": true,
       "position": "Pirate",
       "hobbies": [
         "Fish-Man Karate",
@@ -86,7 +86,7 @@
       "entryDate": "1997-03-02",
       "bounty": 1032000000,
       "profileImageUrl": "https://raw.githubusercontent.com/Imrxng/fotosProjectWEB/main/sanji.webp",
-      "isAlive": true,
+      "isOnline": true,
       "position": "Pirate",
       "hobbies": [
         "Cooking",
@@ -112,7 +112,7 @@
       "entryDate": "1998-07-03",
       "bounty": 366000000,
       "profileImageUrl": "https://raw.githubusercontent.com/Imrxng/fotosProjectWEB/main/nami.webp",
-      "isAlive": true,
+      "isOnline": true,
       "position": "Pirate",
       "hobbies": [
         "Navigation",
@@ -138,7 +138,7 @@
       "entryDate": "2003-06-02",
       "bounty": 394000000,
       "profileImageUrl": "https://raw.githubusercontent.com/Imrxng/fotosProjectWEB/main/franky.webp",
-      "isAlive": true,
+      "isOnline": false,
       "position": "Pirate",
       "hobbies": [
         "Shipbuilding",
@@ -164,7 +164,7 @@
       "entryDate": "2003-06-02",
       "bounty": 383000000,
       "profileImageUrl": "https://raw.githubusercontent.com/Imrxng/fotosProjectWEB/main/brook.webp",
-      "isAlive": false,
+      "isOnline": false,
       "position": "Pirate",
       "hobbies": [
         "Music",
@@ -190,7 +190,7 @@
       "entryDate": "1999-04-01",
       "bounty": 500000000,
       "profileImageUrl": "https://raw.githubusercontent.com/Imrxng/fotosProjectWEB/main/ussop.webp",
-      "isAlive": true,
+      "isOnline": true,
       "position": "Pirate",
       "hobbies": [
         "Sniping",
@@ -216,7 +216,7 @@
       "entryDate": "2003-12-24",
       "bounty": 1000,
       "profileImageUrl": "https://github.com/Imrxng/fotosProjectWEB/blob/main/chopper.webp",
-      "isAlive": true,
+      "isOnline": true,
       "position": "Pirate",
       "hobbies": [
         "Medicine",
@@ -242,7 +242,7 @@
       "entryDate": "2001-04-05",
       "bounty": 930000000,
       "profileImageUrl": "https://raw.githubusercontent.com/Imrxng/fotosProjectWEB/main/robin.webp",
-      "isAlive": true,
+      "isOnline": true,
       "position": "Pirate",
       "hobbies": [
         "Reading",
@@ -268,7 +268,7 @@
       "entryDate": "2003-06-02",
       "bounty": 1659000000,
       "profileImageUrl": "https://raw.githubusercontent.com/Imrxng/fotosProjectWEB/main/hancock.webp",
-      "isAlive": true,
+      "isOnline": true,
       "position": "Pirate",
       "hobbies": [
         "Alphabetizing snakes",
@@ -294,7 +294,7 @@
       "entryDate": "1998-12-20",
       "bounty": 700000000,
       "profileImageUrl": "https://raw.githubusercontent.com/Imrxng/fotosProjectWEB/main/perospero.webp",
-      "isAlive": true,
+      "isOnline": false,
       "position": "Pirate",
       "hobbies": [
         "Candy crafting",
@@ -320,7 +320,7 @@
       "entryDate": "2001-11-28",
       "bounty": 1057000000,
       "profileImageUrl": "https://raw.githubusercontent.com/Imrxng/fotosProjectWEB/main/katakuri.webp",
-      "isAlive": true,
+      "isOnline": true,
       "position": "Pirate",
       "hobbies": [
         "Mochi crafting",
@@ -346,7 +346,7 @@
       "entryDate": "2008-06-02",
       "bounty": 100000000,
       "profileImageUrl": "https://raw.githubusercontent.com/Imrxng/fotosProjectWEB/main/ivankov.webp",
-      "isAlive": true,
+      "isOnline": false,
       "position": "Revolutionary",
       "hobbies": [
         "Newkama Kenpo",
@@ -372,7 +372,7 @@
       "entryDate": "2011-01-12",
       "bounty": 500,
       "profileImageUrl": "https://raw.githubusercontent.com/Imrxng/fotosProjectWEB/main/bepo.webp",
-      "isAlive": true,
+      "isOnline": true,
       "position": "Pirate",
       "hobbies": [
         "Martial arts",
@@ -398,7 +398,7 @@
       "entryDate": "2010-08-15",
       "bounty": 3000000000,
       "profileImageUrl": "https://raw.githubusercontent.com/Imrxng/fotosProjectWEB/main/law.webp",
-      "isAlive": true,
+      "isOnline": true,
       "position": "Pirate",
       "hobbies": [
         "Swordsmanship",
@@ -424,7 +424,7 @@
       "entryDate": "2013-03-14",
       "bounty": 40000000000,
       "profileImageUrl": "https://raw.githubusercontent.com/Imrxng/fotosProjectWEB/main/fujitora.webp",
-      "isAlive": true,
+      "isOnline": false,
       "position": "Marine",
       "hobbies": [
         "Swordsmanship",
@@ -450,7 +450,7 @@
       "entryDate": "2003-05-20",
       "bounty": 500000000,
       "profileImageUrl": "https://raw.githubusercontent.com/Imrxng/fotosProjectWEB/main/koby.webp",
-      "isAlive": true,
+      "isOnline": true,
       "position": "Marine",
       "hobbies": [
         "Training",
@@ -476,7 +476,7 @@
       "entryDate": "2004-11-25",
       "bounty": 3996000000,
       "profileImageUrl": "https://raw.githubusercontent.com/Imrxng/fotosProjectWEB/main/blackbeard.webp",
-      "isAlive": true,
+      "isOnline": false,
       "position": "Pirate",
       "hobbies": [
         "Conquering territories",
@@ -502,7 +502,7 @@
       "entryDate": "2000-09-03",
       "bounty": 3590000000,
       "profileImageUrl": "https://raw.githubusercontent.com/Imrxng/fotosProjectWEB/main/mihawk.webp",
-      "isAlive": true,
+      "isOnline": true,
       "position": "Pirate",
       "hobbies": [
         "Swordsmanship",
@@ -528,7 +528,7 @@
       "entryDate": "2000-03-12",
       "bounty": 340000000,
       "profileImageUrl": "https://raw.githubusercontent.com/Imrxng/fotosProjectWEB/main/doflamingo.webp",
-      "isAlive": true,
+      "isOnline": true,
       "position": "Pirate",
       "hobbies": [
         "Controlling puppets",
@@ -554,7 +554,7 @@
       "entryDate": "1998-02-14",
       "bounty": 3189000000,
       "profileImageUrl": "https://raw.githubusercontent.com/Imrxng/fotosProjectWEB/main/buggy.webp",
-      "isAlive": true,
+      "isOnline": false,
       "position": "Pirate",
       "hobbies": [
         "Creating chaos",
@@ -580,7 +580,7 @@
       "entryDate": "2016-08-01",
       "bounty": 6000000000,
       "profileImageUrl": "https://raw.githubusercontent.com/Imrxng/fotosProjectWEB/main/kuzan.webp",
-      "isAlive": true,
+      "isOnline": true,
       "position": "Pirate",
       "hobbies": [
         "Justice pursuits",
@@ -606,7 +606,7 @@
       "entryDate": "1985-04-30",
       "bounty": 40000000000,
       "profileImageUrl": "https://raw.githubusercontent.com/Imrxng/fotosProjectWEB/main/akainu.webp",
-      "isAlive": true,
+      "isOnline": true,
       "position": "Marine",
       "hobbies": [
         "Volcano hiking",
@@ -632,7 +632,7 @@
       "entryDate": "2014-05-05",
       "bounty": 602000000,
       "profileImageUrl": "https://github.com/Imrxng/fotosProjectWEB/blob/main/sabo.webp",
-      "isAlive": true,
+      "isOnline": false,
       "position": "Revolutionary",
       "hobbies": [
         "Reading",
@@ -658,7 +658,7 @@
       "entryDate": "2007-02-10",
       "bounty": 550000000,
       "profileImageUrl": "https://raw.githubusercontent.com/Imrxng/fotosProjectWEB/main/ace.webp",
-      "isAlive": false,
+      "isOnline": false,
       "position": "Pirate",
       "hobbies": [
         "Fire manipulation",
