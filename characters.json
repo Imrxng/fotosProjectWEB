@@ -1,4 +1,5 @@
 [
+  [
     {
       "id": 1,
       "name": "Monkey D. Luffy",
@@ -674,51 +675,50 @@
         "territory": "New World",
         "totalBounty": 7480000000
       }
-    }
+    },
     {
-  "id": 60,
-  "name": "Edward Newgate",
-  "description": "One of the most powerful pirates in the world and captain of the Whitebeard Pirates.",
-  "age": 72,
-  "devilFruit": "Gura Gura no Mi",
-  "entryDate": "1970-01-01",
-  "bounty": 5500000000,
-  "profileImageUrl": "https://raw.githubusercontent.com/Imrxng/fotosProjectWEB/main/whitebeard.webp",
-  "isOnline": false,
-  "position": "Pirate",
-  "hobbies": [
-    "Protecting his family (crew)",
-    "Playing chess",
-    "Listening to sea shanties",
-  ],
- "group": {
+      "id": 60,
+      "name": "Edward Newgate",
+      "description": "One of the most powerful pirates in the world and captain of the Whitebeard Pirates.",
+      "age": 72,
+      "devilFruit": "Gura Gura no Mi",
+      "entryDate": "1970-01-01",
+      "bounty": 5500000000,
+      "profileImageUrl": "https://raw.githubusercontent.com/Imrxng/fotosProjectWEB/main/whitebeard.webp",
+      "isOnline": false,
+      "position": "Pirate",
+      "hobbies": [
+        "Protecting his family (crew)",
+        "Playing chess",
+        "Listening to sea shanties"
+      ],
+      "group": {
         "id": 3208,
         "name": "Whitebeard Pirates",
-        "logo": "https://raw.githubusercontent.com/Imrxng/fotosProjectWEB/main/whitebeardpirates.webp ",
+        "logo": "https://raw.githubusercontent.com/Imrxng/fotosProjectWEB/main/whitebeardpirates.webp",
         "captain": "Edward Newgate",
         "base": "Sphinx",
         "territory": "New World",
         "totalBounty": 7480000000
       }
-   }
-
-{
-  "id": 61,
-  "name": "Charlotte Linlin",
-  "description": "One of the Yonko, ruling over Totland and captain of the Big Mom Pirates.",
-  "age": 68,
-  "devilFruit": "Soru Soru no Mi",
-  "entryDate": "1960-12-25",
-  "bounty": 4800000000,
-  "profileImageUrl": "https://raw.githubusercontent.com/Imrxng/fotosProjectWEB/main/bigmom.webp",
-  "isOnline": true,
-  "position": "Pirate",
-  "hobbies": [
-    "Baking sweets",
-    "Collecting rare creatures",
-    "Gardening"
-  ],
-  "group": {
+    },
+    {
+      "id": 61,
+      "name": "Charlotte Linlin",
+      "description": "One of the Yonko, ruling over Totland and captain of the Big Mom Pirates.",
+      "age": 68,
+      "devilFruit": "Soru Soru no Mi",
+      "entryDate": "1960-12-25",
+      "bounty": 4800000000,
+      "profileImageUrl": "https://raw.githubusercontent.com/Imrxng/fotosProjectWEB/main/bigmom.webp",
+      "isOnline": true,
+      "position": "Pirate",
+      "hobbies": [
+        "Baking sweets",
+        "Collecting rare creatures",
+        "Gardening"
+      ],
+      "group": {
         "id": 3211,
         "name": "Big Mom Pirates",
         "logo": "https://raw.githubusercontent.com/Imrxng/fotosProjectWEB/main/bigmom.webp",
@@ -726,26 +726,25 @@
         "base": "Whole Cake Island",
         "territory": "New World",
         "totalBounty": 10121500000
-     }
-}
-
-{
-  "id": 62,
-  "name": "Monkey D. Dragon",
-  "description": "The most wanted man in the world and leader of the Revolutionary Army.",
-  "age": 55,
-  "devilFruit": unknown,
-  "entryDate": "1980-04-18",
-  "bounty": 5000000000,
-  "profileImageUrl": "https://raw.githubusercontent.com/Imrxng/fotosProjectWEB/main/dragon.webp",
-  "isOnline": true,
-  "position": "Revolutionary",
-  "hobbies": [
-    "Studying history",
-    "Training revolutionaries",
-    "Exploring the world"
-  ],
-"group": {
+      }
+    },
+    {
+      "id": 62,
+      "name": "Monkey D. Dragon",
+      "description": "The most wanted man in the world and leader of the Revolutionary Army.",
+      "age": 55,
+      "devilFruit": "Unknown",
+      "entryDate": "1980-04-18",
+      "bounty": 5000000000,
+      "profileImageUrl": "https://raw.githubusercontent.com/Imrxng/fotosProjectWEB/main/dragon.webp",
+      "isOnline": true,
+      "position": "Revolutionary",
+      "hobbies": [
+        "Studying history",
+        "Training revolutionaries",
+        "Exploring the world"
+      ],
+      "group": {
         "id": 3210,
         "name": "Revolutionary Army",
         "logo": "https://raw.githubusercontent.com/Imrxng/fotosProjectWEB/main/revolutionary.webp",
@@ -754,61 +753,58 @@
         "territory": "Grand Line",
         "totalBounty": 2564000000
       }
-}
-
-{
-  "id": 63,
-  "name": "Marshall D. Teach",
-  "description": "A former member of the Whitebeard Pirates and one of the Yonko. He aims to become the Pirate King.",
-  "age": 40,
-  "devilFruit": Yami Yami no Mi, Gura Gura no Mi
-  "entryDate": "2000-07-15",
-  "bounty": 2200000000,
-  "profileImageUrl": "https://raw.githubusercontent.com/Imrxng/fotosProjectWEB/main/blackbeard.webp",
-  "isOnline": true,
-  "position": "Pirate",
-  "hobbies": [
-    "Studying ancient texts",
-    "Seeking power",
-    "Playing mind games"
-  ],
- "group": {
+    },
+    {
+      "id": 63,
+      "name": "Marshall D. Teach",
+      "description": "A former member of the Whitebeard Pirates and one of the Yonko. He aims to become the Pirate King.",
+      "age": 40,
+      "devilFruit": "Yami Yami no Mi, Gura Gura no Mi",
+      "entryDate": "2000-07-15",
+      "bounty": 2200000000,
+      "profileImageUrl": "https://raw.githubusercontent.com/Imrxng/fotosProjectWEB/main/blackbeard.webp",
+      "isOnline": true,
+      "position": "Pirate",
+      "hobbies": [
+        "Studying ancient texts",
+        "Seeking power",
+        "Playing mind games"
+      ],
+      "group": {
         "id": 3218,
         "name": "Blackbeard Pirates",
         "logo": "https://raw.githubusercontent.com/Imrxng/fotosProjectWEB/main/blackbeardpirates.webp",
         "captain": "Marshall D. Teach",
         "base": "Pirate Island",
         "territory": "New World",
-        "totalBounty": 4194200000	
-   }
-}
-
-
-{
-  "id": 6,
-  "name": "Buggy",
-  "description": "Former member of the Roger Pirates and captain of the Buggy Pirates.",
-  "age": 45,
-  "devilFruit": "Bara Bara no Mi",
-  "entryDate": "1980-10-10",
-  "bounty": 318900000,
-  "profileImageUrl": "https://raw.githubusercontent.com/Imrxng/fotosProjectWEB/main/buggy.webp",
-  "isOnline": false,
-  "position": "Pirate Captain",
-  "hobbies": [
-    "Performing as a clown",
-    "Collecting treasure maps",
-    "Trying to recruit followers"
-  ],
-  "group": {
-    "id": 8001,
-    "name": "Buggy Pirates",
-    "logo": "https://raw.githubusercontent.com/Imrxng/fotosProjectWEB/main/buggy_pirates.webp",
-    "captain": "Buggy",
-    "base": "Unknown",
-    "territory": "Grand Line",
-    "totalBounty": 382500000
-  }
-}
-
+        "totalBounty": 4194200000
+      }
+    },
+    {
+      "id": 6,
+      "name": "Buggy",
+      "description": "Former member of the Roger Pirates and captain of the Buggy Pirates.",
+      "age": 45,
+      "devilFruit": "Bara Bara no Mi",
+      "entryDate": "1980-10-10",
+      "bounty": 318900000,
+      "profileImageUrl": "https://raw.githubusercontent.com/Imrxng/fotosProjectWEB/main/buggy.webp",
+      "isOnline": false,
+      "position": "Pirate Captain",
+      "hobbies": [
+        "Performing as a clown",
+        "Collecting treasure maps",
+        "Trying to recruit followers"
+      ],
+      "group": {
+        "id": 8001,
+        "name": "Buggy Pirates",
+        "logo": "https://raw.githubusercontent.com/Imrxng/fotosProjectWEB/main/buggy_pirates.webp",
+        "captain": "Buggy",
+        "base": "Unknown",
+        "territory": "Grand Line",
+        "totalBounty": 382500000
+      }
+    }
   ]
+]
