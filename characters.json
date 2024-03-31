@@ -547,7 +547,7 @@
     },
     {
       "id": 22,
-      "name": "Buggy",
+      "name": "Buggy The Clown",
       "description": "One of the four emperors and captain of the Cross Guild and former member of the Roger Pirates.",
       "age": 39,
       "devilFruit": "Bara Bara no Mi",
@@ -781,33 +781,5 @@
         "territory": "New World",
         "totalBounty": 4194200000	
    }
-},
-
-
-{
-  "id": 64,
-  "name": "Buggy The Clown",
-  "description": "Former member of the Roger Pirates and captain of the Buggy Pirates.",
-  "age": 45,
-  "devilFruit": "Bara Bara no Mi",
-  "entryDate": "1980-10-10",
-  "bounty": 318900000,
-  "profileImageUrl": "https://raw.githubusercontent.com/Imrxng/fotosProjectWEB/main/buggy.webp",
-  "isOnline": false,
-  "position": "Pirate Captain",
-  "hobbies": [
-    "Performing as a clown",
-    "Collecting treasure maps",
-    "Trying to recruit followers"
-  ],
-    "group": {
-        "id": 4001,
-        "name": "Cross Guild",
-        "logo": "https://raw.githubusercontent.com/Imrxng/fotosProjectWEB/main/crossguildpirates.webp",
-        "captain": "Buggy The Clown",
-        "base": null,
-        "territory": "Worldwide",
-        "totalBounty": 8848000000
-      }
 }
   ]
