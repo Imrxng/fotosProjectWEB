@@ -786,7 +786,7 @@
 
 {
   "id": 64,
-  "name": "Buggy",
+  "name": "Buggy The Clown",
   "description": "Former member of the Roger Pirates and captain of the Buggy Pirates.",
   "age": 45,
   "devilFruit": "Bara Bara no Mi",
@@ -800,14 +800,14 @@
     "Collecting treasure maps",
     "Trying to recruit followers"
   ],
-  "group": {
-    "id": 8001,
-    "name": "Buggy Pirates",
-    "logo": "https://raw.githubusercontent.com/Imrxng/fotosProjectWEB/main/buggy_pirates.webp",
-    "captain": "Buggy",
-    "base": "Unknown",
-    "territory": "Grand Line",
-    "totalBounty": 382500000
-  }
+    "group": {
+        "id": 4001,
+        "name": "Cross Guild",
+        "logo": "https://raw.githubusercontent.com/Imrxng/fotosProjectWEB/main/crossguildpirates.webp",
+        "captain": "Buggy The Clown",
+        "base": null,
+        "territory": "Worldwide",
+        "totalBounty": 8848000000
+      }
 }
   ]
