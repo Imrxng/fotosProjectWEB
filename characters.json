@@ -1,682 +1,681 @@
-
 [
-    {
-      "id": 1,
-      "name": "Monkey D. Luffy",
-      "description": "The main protagonist and future Pirate King. Currently one of the four emperors of the sea",
-      "age": 19,
-      "devilFruit": "Hito Hito no Mi, Model: Nika",
-      "entryDate": "1999-05-05",
-      "bounty": 3000000000,
-      "profileImageUrl": "https://raw.githubusercontent.com/Imrxng/fotosProjectWEB/main/luffy.webp",
-      "isOnline": true,
-      "position": "Pirate",
-      "hobbies": [
-        "Training",
-        "Eating",
-        "Exploring"
-      ],
-      "group": {
-        "id": 3001,
-        "name": "Straw Hat Pirates",
-        "logo": "https://raw.githubusercontent.com/Imrxng/fotosProjectWEB/main/strawhats.webp",
-        "captain": "Monkey D. Luffy",
-        "base": "Thousand Sunny",
-        "territory": "Grand Line",
-        "totalBounty": 8816001000
-      }
-    },
-    {
-      "id": 2,
-      "name": "Roronoa Zoro",
-      "description": "The swordsman and first mate of the Straw Hat Pirates.",
-      "age": 21,
-      "devilFruit": null,
-      "entryDate": "1999-05-05",
-      "bounty": 1111000000,
-      "profileImageUrl": "https://raw.githubusercontent.com/Imrxng/fotosProjectWEB/main/zoro.webp",
-      "isOnline": true,
-      "position": "Pirate",
-      "hobbies": [
-        "Swordsmanship",
-        "Napping",
-        "Drinking"
-      ],
-      "group": {
-        "id": 3001,
-        "name": "Straw Hat Pirates",
-        "logo": "https://raw.githubusercontent.com/Imrxng/fotosProjectWEB/main/strawhats.webp",
-        "captain": "Monkey D. Luffy",
-        "base": "Thousand Sunny",
-        "territory": "Grand Line",
-        "totalBounty": 8816001000
-      }
-    },
-    {
-      "id": 13,
-      "name": "Jinbe",
-      "description": "Helmsman and Fish-Man Karate master of the Straw Hat Pirates.",
-      "age": 46,
-      "devilFruit": null,
-      "entryDate": "2019-03-17",
-      "bounty": 1100000000,
-      "profileImageUrl": "https://raw.githubusercontent.com/Imrxng/fotosProjectWEB/main/jinbe.webp",
-      "isOnline": true,
-      "position": "Pirate",
-      "hobbies": [
-        "Fish-Man Karate",
-        "Meditation",
-        "Fishing"
-      ],
-      "group": {
-        "id": 3001,
-        "name": "Straw Hat Pirates",
-        "logo": "https://raw.githubusercontent.com/Imrxng/fotosProjectWEB/main/strawhats.webp",
-        "captain": "Monkey D. Luffy",
-        "base": "Thousand Sunny",
-        "territory": "Grand Line",
-        "totalBounty": 8816001000
-      }
-    },
-    {
-      "id": 5,
-      "name": "Sanji",
-      "description": "Chef and martial artist with a strong sense of chivalry.",
-      "age": 21,
-      "devilFruit": null,
-      "entryDate": "1997-03-02",
-      "bounty": 1032000000,
-      "profileImageUrl": "https://raw.githubusercontent.com/Imrxng/fotosProjectWEB/main/sanji.webp",
-      "isOnline": true,
-      "position": "Pirate",
-      "hobbies": [
-        "Cooking",
-        "Flirting",
-        "Kickboxing"
-      ],
-      "group": {
-        "id": 3001,
-        "name": "Straw Hat Pirates",
-        "logo": "https://raw.githubusercontent.com/Imrxng/fotosProjectWEB/main/strawhats.webp",
-        "captain": "Monkey D. Luffy",
-        "base": "Thousand Sunny",
-        "territory": "Grand Line",
-        "totalBounty": 8816001000
-      }
-    },
-    {
-      "id": 3,
-      "name": "Nami",
-      "description": "Navigator and cartographer of the Straw Hat Pirates.",
-      "age": 20,
-      "devilFruit": null,
-      "entryDate": "1998-07-03",
-      "bounty": 366000000,
-      "profileImageUrl": "https://raw.githubusercontent.com/Imrxng/fotosProjectWEB/main/nami.webp",
-      "isOnline": true,
-      "position": "Pirate",
-      "hobbies": [
-        "Navigation",
-        "Reading",
-        "Drawing maps"
-      ],
-      "group": {
-        "id": 3001,
-        "name": "Straw Hat Pirates",
-        "logo": "https://raw.githubusercontent.com/Imrxng/fotosProjectWEB/main/strawhats.webp",
-        "captain": "Monkey D. Luffy",
-        "base": "Thousand Sunny",
-        "territory": "Grand Line",
-        "totalBounty": 8816001000
-      }
-    },
-    {
-      "id": 11,
-      "name": "Franky",
-      "description": "Shipwright and cyborg of the Straw Hat Pirates.",
-      "age": 36,
-      "devilFruit": null,
-      "entryDate": "2003-06-02",
-      "bounty": 394000000,
-      "profileImageUrl": "https://raw.githubusercontent.com/Imrxng/fotosProjectWEB/main/franky.webp",
-      "isOnline": false,
-      "position": "Pirate",
-      "hobbies": [
-        "Shipbuilding",
-        "Music",
-        "Flexing"
-      ],
-      "group": {
-        "id": 3001,
-        "name": "Straw Hat Pirates",
-        "logo": "https://raw.githubusercontent.com/Imrxng/fotosProjectWEB/main/strawhats.webp",
-        "captain": "Monkey D. Luffy",
-        "base": "Thousand Sunny",
-        "territory": "Grand Line",
-        "totalBounty": 8816001000
-      }
-    },
-    {
-      "id": 12,
-      "name": "Brook",
-      "description": "Musician and skeleton of the Straw Hat Pirates.",
-      "age": 90,
-      "devilFruit": "Yomi Yomi no Mi",
-      "entryDate": "2003-06-02",
-      "bounty": 383000000,
-      "profileImageUrl": "https://raw.githubusercontent.com/Imrxng/fotosProjectWEB/main/brook.webp",
-      "isOnline": false,
-      "position": "Pirate",
-      "hobbies": [
-        "Music",
-        "Soul King performances",
-        "Cherry blossoms"
-      ],
-      "group": {
-        "id": 3001,
-        "name": "Straw Hat Pirates",
-        "logo": "https://raw.githubusercontent.com/Imrxng/fotosProjectWEB/main/strawhats.webp",
-        "captain": "Monkey D. Luffy",
-        "base": "Thousand Sunny",
-        "territory": "Grand Line",
-        "totalBounty": 8816001000
-      }
-    },
-    {
-      "id": 4,
-      "name": "Usopp",
-      "description": "Sharpshooter and storyteller of the Straw Hat Pirates.",
-      "age": 19,
-      "devilFruit": null,
-      "entryDate": "1999-04-01",
-      "bounty": 500000000,
-      "profileImageUrl": "https://raw.githubusercontent.com/Imrxng/fotosProjectWEB/main/ussop.webp",
-      "isOnline": true,
-      "position": "Pirate",
-      "hobbies": [
-        "Sniping",
-        "Inventing",
-        "Telling tall tales"
-      ],
-      "group": {
-        "id": 3001,
-        "name": "Straw Hat Pirates",
-        "logo": "https://raw.githubusercontent.com/Imrxng/fotosProjectWEB/main/strawhats.webp",
-        "captain": "Monkey D. Luffy",
-        "base": "Thousand Sunny",
-        "territory": "Grand Line",
-        "totalBounty": 8816001000
-      }
-    },
-    {
-      "id": 6,
-      "name": "Tony Tony Chopper",
-      "description": "Talking reindeer and the crew's doctor.",
-      "age": 17,
-      "devilFruit": "Hito Hito no Mi",
-      "entryDate": "2003-12-24",
-      "bounty": 1000,
-      "profileImageUrl": "https://raw.githubusercontent.com/Imrxng/fotosProjectWEB/main/chopper.webp",
-      "isOnline": true,
-      "position": "Pirate",
-      "hobbies": [
-        "Medicine",
-        "Exploring herbs",
-        "Cotton candy"
-      ],
-      "group": {
-        "id": 3001,
-        "name": "Straw Hat Pirates",
-        "logo": "https://raw.githubusercontent.com/Imrxng/fotosProjectWEB/main/strawhats.webp",
-        "captain": "Monkey D. Luffy",
-        "base": "Thousand Sunny",
-        "territory": "Grand Line",
-        "totalBounty": 8816001000
-      }
-    },
-    {
-      "id": 8,
-      "name": "Nico Robin",
-      "description": "Archaeologist and historian of the Straw Hat Pirates.",
-      "age": 30,
-      "devilFruit": "Hana Hana no Mi",
-      "entryDate": "2001-04-05",
-      "bounty": 930000000,
-      "profileImageUrl": "https://raw.githubusercontent.com/Imrxng/fotosProjectWEB/main/robin.webp",
-      "isOnline": true,
-      "position": "Pirate",
-      "hobbies": [
-        "Reading",
-        "Archaeology",
-        "Poneglyphs"
-      ],
-      "group": {
-        "id": 3001,
-        "name": "Straw Hat Pirates",
-        "logo": "https://raw.githubusercontent.com/Imrxng/fotosProjectWEB/main/strawhats.webp",
-        "captain": "Monkey D. Luffy",
-        "base": "Thousand Sunny",
-        "territory": "Grand Line",
-        "totalBounty": 8816001000
-      }
-    },
-    {
-      "id": 10,
-      "name": "Boa Hancock",
-      "description": "Empress of the Kuja Pirates and Warlord of the Sea.",
-      "age": 29,
-      "devilFruit": "Mero Mero no Mi",
-      "entryDate": "2003-06-02",
-      "bounty": 1659000000,
-      "profileImageUrl": "https://raw.githubusercontent.com/Imrxng/fotosProjectWEB/main/hancock.webp",
-      "isOnline": true,
-      "position": "Pirate",
-      "hobbies": [
-        "Alphabetizing snakes",
-        "Fighting",
-        "Sculpture"
-      ],
-      "group": {
-        "id": 3204,
-        "name": "Kuja Pirates",
-        "logo": "https://raw.githubusercontent.com/Imrxng/fotosProjectWEB/main/kuja.webp",
-        "captain": "Boa Hancock",
-        "base": "Amazon Lily",
-        "territory": "Calm Belt",
-        "totalBounty": 1739000000
-      }
-    },
-    {
-      "id": 38,
-      "name": "Charlotte Perospero",
-      "description": "Minister of Candy and Charlotte Family member.",
-      "age": 50,
-      "devilFruit": "Buku Buku no Mi",
-      "entryDate": "1998-12-20",
-      "bounty": 700000000,
-      "profileImageUrl": "https://raw.githubusercontent.com/Imrxng/fotosProjectWEB/main/perospero.webp",
-      "isOnline": false,
-      "position": "Pirate",
-      "hobbies": [
-        "Candy crafting",
-        "Political strategy",
-        "Chess"
-      ],
-      "group": {
-        "id": 3211,
-        "name": "Big Mom Pirates",
-        "logo": "https://raw.githubusercontent.com/Imrxng/fotosProjectWEB/main/bigmom.webp",
-        "captain": "Charlotte Katakuri",
-        "base": "Whole Cake Island",
-        "territory": "New World",
-        "totalBounty": 10121500000
-      }
-    },
-    {
-      "id": 19,
-      "name": "Charlotte Katakuri",
-      "description": "Commander of the Big Mom Pirates' Sweet Commanders.",
-      "age": 48,
-      "devilFruit": "Mochi Mochi no Mi",
-      "entryDate": "2001-11-28",
-      "bounty": 1057000000,
-      "profileImageUrl": "https://raw.githubusercontent.com/Imrxng/fotosProjectWEB/main/katakuri.webp",
-      "isOnline": true,
-      "position": "Pirate",
-      "hobbies": [
-        "Mochi crafting",
-        "Observing",
-        "Tea ceremonies"
-      ],
-      "group": {
-        "id": 3211,
-        "name": "Big Mom Pirates",
-        "logo": "https://raw.githubusercontent.com/Imrxng/fotosProjectWEB/main/bigmom.webp",
-        "captain": "Charlotte Katakuri",
-        "base": "Whole Cake Island",
-        "territory": "New World",
-        "totalBounty": 10121500000
-      }
-    },
-    {
-      "id": 37,
-      "name": "Emporio Ivankov",
-      "description": "Queen of the Kamabakka Kingdom and leader of the Newkama Land.",
-      "age": 49,
-      "devilFruit": "Horu Horu no Mi",
-      "entryDate": "2008-06-02",
-      "bounty": 100000000,
-      "profileImageUrl": "https://raw.githubusercontent.com/Imrxng/fotosProjectWEB/main/ivankov.webp",
-      "isOnline": false,
-      "position": "Revolutionary",
-      "hobbies": [
-        "Newkama Kenpo",
-        "Revolutionary activities",
-        "Fashion design"
-      ],
-      "group": {
-        "id": 3210,
-        "name": "Revolutionary Army",
-        "logo": "https://raw.githubusercontent.com/Imrxng/fotosProjectWEB/main/revolutionary.webp",
-        "captain": "Monkey D. Dragon",
-        "base": "Kamabakka Kingdom",
-        "territory": "Grand Line",
-        "totalBounty": 2564000000
-      }
-    },
-    {
-      "id": 31,
-      "name": "Bepo",
-      "description": "Pirate and member of the Heart Pirates.",
-      "age": 27,
-      "devilFruit": null,
-      "entryDate": "2011-01-12",
-      "bounty": 500,
-      "profileImageUrl": "https://raw.githubusercontent.com/Imrxng/fotosProjectWEB/main/bepo.webp",
-      "isOnline": true,
-      "position": "Pirate",
-      "hobbies": [
-        "Martial arts",
-        "Reading",
-        "Exploring"
-      ],
-      "group": {
-        "id": 3202,
-        "name": "Heart Pirates",
-        "logo": "https://raw.githubusercontent.com/Imrxng/fotosProjectWEB/main/heart.webp",
-        "captain": "Trafalgar D. Water Law",
-        "base": "Sabaody Archipelago",
-        "territory": "New World",
-        "totalBounty": 3000000500
-      }
-    },
-    {
-      "id": 7,
-      "name": "Trafalgar D. Water Law",
-      "description": "The captain of the Heart Pirates.",
-      "age": 26,
-      "devilFruit": "Ope Ope no Mi",
-      "entryDate": "2010-08-15",
-      "bounty": 3000000000,
-      "profileImageUrl": "https://raw.githubusercontent.com/Imrxng/fotosProjectWEB/main/law.webp",
-      "isOnline": true,
-      "position": "Pirate",
-      "hobbies": [
-        "Swordsmanship",
-        "Surgeon skills",
-        "Strategizing"
-      ],
-      "group": {
-        "id": 3202,
-        "name": "Heart Pirates",
-        "logo": "https://raw.githubusercontent.com/Imrxng/fotosProjectWEB/main/heart.webp",
-        "captain": "Trafalgar D. Water Law",
-        "base": "Sabaody Archipelago",
-        "territory": "New World",
-        "totalBounty": 3000000500
-      }
-    },
-    {
-      "id": 39,
-      "name": "Isho Fujitora",
-      "description": "Admiral in the Marines and user of the Gravity-Gravity Fruit.",
-      "age": 55,
-      "devilFruit": "Zushi Zushi no Mi",
-      "entryDate": "2013-03-14",
-      "bounty": 40000000000,
-      "profileImageUrl": "https://raw.githubusercontent.com/Imrxng/fotosProjectWEB/main/fujitora.webp",
-      "isOnline": false,
-      "position": "Marine",
-      "hobbies": [
-        "Swordsmanship",
-        "Gambling",
-        "Promoting justice"
-      ],
-      "group": {
-        "id": 3214,
-        "name": "Marines",
-        "logo": "https://raw.githubusercontent.com/Imrxng/fotosProjectWEB/main/marine.webp",
-        "captain": "Sakazuki Akainu",
-        "base": "Marine Headquarters",
-        "territory": "Worldwide",
-        "totalBounty": 170000000000
-      }
-    },
-    {
-      "id": 23,
-      "name": "Koby",
-      "description": "Marine officer and protege of Vice Admiral Garp.",
-      "age": 20,
-      "devilFruit": null,
-      "entryDate": "2003-05-20",
-      "bounty": 500000000,
-      "profileImageUrl": "https://raw.githubusercontent.com/Imrxng/fotosProjectWEB/main/koby.webp",
-      "isOnline": true,
-      "position": "Marine",
-      "hobbies": [
-        "Training",
-        "Justice pursuit",
-        "Navigation"
-      ],
-      "group": {
-        "id": 3214,
-        "name": "Marines",
-        "logo": "https://raw.githubusercontent.com/Imrxng/fotosProjectWEB/main/marine.webp",
-        "captain": "Sakazuki Akainu",
-        "base": "Marine Headquarters",
-        "territory": "Worldwide",
-        "totalBounty": 170000000000
-      }
-    },
-    {
-      "id": 35,
-      "name": "Marshall D. Teach",
-      "description": "Captain of the Blackbeard Pirates.",
-      "age": 44,
-      "devilFruit": "Yami Yami no Mi",
-      "entryDate": "2004-11-25",
-      "bounty": 3996000000,
-      "profileImageUrl": "https://raw.githubusercontent.com/Imrxng/fotosProjectWEB/main/blackbeard.webp",
-      "isOnline": false,
-      "position": "Pirate",
-      "hobbies": [
-        "Conquering territories",
-        "Collecting devil fruits",
-        "Studying history"
-      ],
-      "group": {
-        "id": 3218,
-        "name": "Blackbeard Pirates",
-        "logo": "https://raw.githubusercontent.com/Imrxng/fotosProjectWEB/main/blackbeardpirates.webp",
-        "captain": "Marshall D. Teach",
-        "base": "Pirate Island",
-        "territory": "New World",
-        "totalBounty": 4194200000
-      }
-    },
-    {
-      "id": 36,
-      "name": "Dracule Mihawk",
-      "description": "World's Greatest Swordsman and former Warlord of the Sea.",
-      "age": 43,
-      "devilFruit": null,
-      "entryDate": "2000-09-03",
-      "bounty": 3590000000,
-      "profileImageUrl": "https://raw.githubusercontent.com/Imrxng/fotosProjectWEB/main/mihawk.webp",
-      "isOnline": true,
-      "position": "Pirate",
-      "hobbies": [
-        "Swordsmanship",
-        "Solo travels",
-        "Fine dining"
-      ],
-      "group": {
-        "id": 4001,
-        "name": "Cross Guild",
-        "logo": "https://raw.githubusercontent.com/Imrxng/fotosProjectWEB/main/crossguildpirates.webp",
-        "captain": "Buggy The Clown",
-        "base": null,
-        "territory": "Worldwide",
-        "totalBounty": 8848000000
-      }
-    },
-    {
-      "id": 25,
-      "name": "Donquixote Doflamingo",
-      "description": "Former Shichibukai and captain of the Donquixote Pirates.",
-      "age": 45,
-      "devilFruit": "Ito Ito no Mi",
-      "entryDate": "2000-03-12",
-      "bounty": 340000000,
-      "profileImageUrl": "https://raw.githubusercontent.com/Imrxng/fotosProjectWEB/main/doflamingo.webp",
-      "isOnline": true,
-      "position": "Pirate",
-      "hobbies": [
-        "Controlling puppets",
-        "Underground business",
-        "Scheming"
-      ],
-      "group": {
-        "id": 3215,
-        "name": "Donquixote Pirates",
-        "logo": "https://raw.githubusercontent.com/Imrxng/fotosProjectWEB/main/donquixotepirates.webp",
-        "captain": "Donquixote Doflamingo",
-        "base": "Dressrosa",
-        "territory": "New World",
-        "totalBounty": 813000000
-      }
-    },
-    {
-      "id": 22,
-      "name": "Buggy The Clown",
-      "description": "One of the four emperors and captain of the Cross Guild and former member of the Roger Pirates.",
-      "age": 39,
-      "devilFruit": "Bara Bara no Mi",
-      "entryDate": "1998-02-14",
-      "bounty": 3189000000,
-      "profileImageUrl": "https://raw.githubusercontent.com/Imrxng/fotosProjectWEB/main/buggy.webp",
-      "isOnline": false,
-      "position": "Pirate",
-      "hobbies": [
-        "Creating chaos",
-        "Stand-up comedy",
-        "Treasure hunting"
-      ],
-      "group": {
-        "id": 4001,
-        "name": "Cross Guild",
-        "logo": "https://raw.githubusercontent.com/Imrxng/fotosProjectWEB/main/crossguildpirates.webp",
-        "captain": "Buggy The Clown",
-        "base": null,
-        "territory": "Worldwide",
-        "totalBounty": 8848000000
-      }
-    },
-    {
-      "id": 16,
-      "name": "Kuzan",
-      "description": "Former admiral and current captain of the tenth ship of the Blackbeard Pirates.",
-      "age": 54,
-      "devilFruit": "Hie Hie no Mi",
-      "entryDate": "2016-08-01",
-      "bounty": 2000000000,
-      "profileImageUrl": "https://raw.githubusercontent.com/Imrxng/fotosProjectWEB/main/kuzan.webp",
-      "isOnline": true,
-      "position": "Pirate",
-      "hobbies": [
-        "Justice pursuits",
-        "Exploring",
-        "Ice sculpting"
-      ],
-      "group": {
-        "id": 3218,
-        "name": "Blackbeard Pirates",
-        "logo": "https://raw.githubusercontent.com/Imrxng/fotosProjectWEB/main/blackbeardpirates.webp",
-        "captain": "Marshall D. Teach",
-        "base": "Pirate Island",
-        "territory": "New World",
-        "totalBounty": 4194200000
-      }
-    },
-    {
-      "id": 30,
-      "name": "Sakazuki Akainu",
-      "description": "Fleet Admiral in the Marines and user of the Magma-Magma Fruit.",
-      "age": 54,
-      "devilFruit": "Magu Magu no Mi",
-      "entryDate": "1985-04-30",
-      "bounty": 40000000000,
-      "profileImageUrl": "https://raw.githubusercontent.com/Imrxng/fotosProjectWEB/main/akainu.webp",
-      "isOnline": true,
-      "position": "Marine",
-      "hobbies": [
-        "Volcano hiking",
-        "Strategic planning",
-        "Koi fish keeping"
-      ],
-      "group": {
-        "id": 3214,
-        "name": "Marines",
-        "logo": "https://raw.githubusercontent.com/Imrxng/fotosProjectWEB/main/marine.webp",
-        "captain": "Sakazuki Akainu",
-        "base": "Marine Headquarters",
-        "territory": "Worldwide",
-        "totalBounty": 170000000000
-      }
-    },
-    {
-      "id": 65,
-      "name": "Sabo",
-      "description": "Chief of Staff of the Revolutionary Army and user of the Fire-Fire Fruit.",
-      "age": 22,
-      "devilFruit": "Mera Mera no Mi",
-      "entryDate": "2014-05-05",
-      "bounty": 602000000,
-      "profileImageUrl": "https://raw.githubusercontent.com/Imrxng/fotosProjectWEB/main/sabo.webp",
-      "isOnline": false,
-      "position": "Revolutionary",
-      "hobbies": [
-        "Reading",
-        "Dragon riding",
-        "Fireworks crafting"
-      ],
-      "group": {
-        "id": 3210,
-        "name": "Revolutionary Army",
-        "logo": "https://raw.githubusercontent.com/Imrxng/fotosProjectWEB/main/revolutionary.webp",
-        "captain": "Monkey D. Dragon",
-        "base": "Kamabakka Kingdom",
-        "territory": "Grand Line",
-        "totalBounty": 2564000000
-      }
-    },
-    {
-      "id": 20,
-      "name": "Portgas D. Ace",
-      "description": "Commander of the Whitebeard Pirates' 2nd Division and user of the Fire-Fire Fruit.",
-      "age": 20,
-      "devilFruit": "Mera Mera no Mi",
-      "entryDate": "2007-02-10",
-      "bounty": 550000000,
-      "profileImageUrl": "https://raw.githubusercontent.com/Imrxng/fotosProjectWEB/main/ace.webp",
-      "isOnline": false,
-      "position": "Pirate",
-      "hobbies": [
-        "Fire manipulation",
-        "Spelunking",
-        "Beach volleyball"
-      ],
-      "group": {
-        "id": 3208,
-        "name": "Whitebeard Pirates",
-        "logo": "https://raw.githubusercontent.com/Imrxng/fotosProjectWEB/main/whitebeardpirates.webp ",
-        "captain": "Edward Newgate",
-        "base": "Sphinx",
-        "territory": "New World",
-        "totalBounty": 7480000000
-      }
-    },
-    {
+  {
+    "id": 1,
+    "name": "Monkey D. Luffy",
+    "description": "The main protagonist and future Pirate King. Currently one of the four emperors of the sea",
+    "age": 19,
+    "devilFruit": "Hito Hito no Mi, Model: Nika",
+    "entryDate": "1999-05-05",
+    "bounty": 3000000000,
+    "profileImageUrl": "https://raw.githubusercontent.com/Imrxng/fotosProjectWEB/main/luffy.webp",
+    "isOnline": true,
+    "position": "Pirate",
+    "hobbies": [
+      "Training",
+      "Eating",
+      "Exploring"
+    ],
+    "group": {
+      "id": 3001,
+      "name": "Straw Hat Pirates",
+      "logo": "https://raw.githubusercontent.com/Imrxng/fotosProjectWEB/main/strawhats.webp",
+      "captain": "Monkey D. Luffy",
+      "base": "Thousand Sunny",
+      "territory": "Grand Line",
+      "totalBounty": 8816001000
+    }
+  },
+  {
+    "id": 2,
+    "name": "Roronoa Zoro",
+    "description": "The swordsman and first mate of the Straw Hat Pirates.",
+    "age": 21,
+    "devilFruit": null,
+    "entryDate": "1999-05-05",
+    "bounty": 1111000000,
+    "profileImageUrl": "https://raw.githubusercontent.com/Imrxng/fotosProjectWEB/main/zoro.webp",
+    "isOnline": true,
+    "position": "Pirate",
+    "hobbies": [
+      "Swordsmanship",
+      "Napping",
+      "Drinking"
+    ],
+    "group": {
+      "id": 3001,
+      "name": "Straw Hat Pirates",
+      "logo": "https://raw.githubusercontent.com/Imrxng/fotosProjectWEB/main/strawhats.webp",
+      "captain": "Monkey D. Luffy",
+      "base": "Thousand Sunny",
+      "territory": "Grand Line",
+      "totalBounty": 8816001000
+    }
+  },
+  {
+    "id": 13,
+    "name": "Jinbe",
+    "description": "Helmsman and Fish-Man Karate master of the Straw Hat Pirates.",
+    "age": 46,
+    "devilFruit": null,
+    "entryDate": "2019-03-17",
+    "bounty": 1100000000,
+    "profileImageUrl": "https://raw.githubusercontent.com/Imrxng/fotosProjectWEB/main/jinbe.webp",
+    "isOnline": true,
+    "position": "Pirate",
+    "hobbies": [
+      "Fish-Man Karate",
+      "Meditation",
+      "Fishing"
+    ],
+    "group": {
+      "id": 3001,
+      "name": "Straw Hat Pirates",
+      "logo": "https://raw.githubusercontent.com/Imrxng/fotosProjectWEB/main/strawhats.webp",
+      "captain": "Monkey D. Luffy",
+      "base": "Thousand Sunny",
+      "territory": "Grand Line",
+      "totalBounty": 8816001000
+    }
+  },
+  {
+    "id": 5,
+    "name": "Sanji",
+    "description": "Chef and martial artist with a strong sense of chivalry.",
+    "age": 21,
+    "devilFruit": null,
+    "entryDate": "1997-03-02",
+    "bounty": 1032000000,
+    "profileImageUrl": "https://raw.githubusercontent.com/Imrxng/fotosProjectWEB/main/sanji.webp",
+    "isOnline": true,
+    "position": "Pirate",
+    "hobbies": [
+      "Cooking",
+      "Flirting",
+      "Kickboxing"
+    ],
+    "group": {
+      "id": 3001,
+      "name": "Straw Hat Pirates",
+      "logo": "https://raw.githubusercontent.com/Imrxng/fotosProjectWEB/main/strawhats.webp",
+      "captain": "Monkey D. Luffy",
+      "base": "Thousand Sunny",
+      "territory": "Grand Line",
+      "totalBounty": 8816001000
+    }
+  },
+  {
+    "id": 3,
+    "name": "Nami",
+    "description": "Navigator and cartographer of the Straw Hat Pirates.",
+    "age": 20,
+    "devilFruit": null,
+    "entryDate": "1998-07-03",
+    "bounty": 366000000,
+    "profileImageUrl": "https://raw.githubusercontent.com/Imrxng/fotosProjectWEB/main/nami.webp",
+    "isOnline": true,
+    "position": "Pirate",
+    "hobbies": [
+      "Navigation",
+      "Reading",
+      "Drawing maps"
+    ],
+    "group": {
+      "id": 3001,
+      "name": "Straw Hat Pirates",
+      "logo": "https://raw.githubusercontent.com/Imrxng/fotosProjectWEB/main/strawhats.webp",
+      "captain": "Monkey D. Luffy",
+      "base": "Thousand Sunny",
+      "territory": "Grand Line",
+      "totalBounty": 8816001000
+    }
+  },
+  {
+    "id": 11,
+    "name": "Franky",
+    "description": "Shipwright and cyborg of the Straw Hat Pirates.",
+    "age": 36,
+    "devilFruit": null,
+    "entryDate": "2003-06-02",
+    "bounty": 394000000,
+    "profileImageUrl": "https://raw.githubusercontent.com/Imrxng/fotosProjectWEB/main/franky.webp",
+    "isOnline": false,
+    "position": "Pirate",
+    "hobbies": [
+      "Shipbuilding",
+      "Music",
+      "Flexing"
+    ],
+    "group": {
+      "id": 3001,
+      "name": "Straw Hat Pirates",
+      "logo": "https://raw.githubusercontent.com/Imrxng/fotosProjectWEB/main/strawhats.webp",
+      "captain": "Monkey D. Luffy",
+      "base": "Thousand Sunny",
+      "territory": "Grand Line",
+      "totalBounty": 8816001000
+    }
+  },
+  {
+    "id": 12,
+    "name": "Brook",
+    "description": "Musician and skeleton of the Straw Hat Pirates.",
+    "age": 90,
+    "devilFruit": "Yomi Yomi no Mi",
+    "entryDate": "2003-06-02",
+    "bounty": 383000000,
+    "profileImageUrl": "https://raw.githubusercontent.com/Imrxng/fotosProjectWEB/main/brook.webp",
+    "isOnline": false,
+    "position": "Pirate",
+    "hobbies": [
+      "Music",
+      "Soul King performances",
+      "Cherry blossoms"
+    ],
+    "group": {
+      "id": 3001,
+      "name": "Straw Hat Pirates",
+      "logo": "https://raw.githubusercontent.com/Imrxng/fotosProjectWEB/main/strawhats.webp",
+      "captain": "Monkey D. Luffy",
+      "base": "Thousand Sunny",
+      "territory": "Grand Line",
+      "totalBounty": 8816001000
+    }
+  },
+  {
+    "id": 4,
+    "name": "Usopp",
+    "description": "Sharpshooter and storyteller of the Straw Hat Pirates.",
+    "age": 19,
+    "devilFruit": null,
+    "entryDate": "1999-04-01",
+    "bounty": 500000000,
+    "profileImageUrl": "https://raw.githubusercontent.com/Imrxng/fotosProjectWEB/main/ussop.webp",
+    "isOnline": true,
+    "position": "Pirate",
+    "hobbies": [
+      "Sniping",
+      "Inventing",
+      "Telling tall tales"
+    ],
+    "group": {
+      "id": 3001,
+      "name": "Straw Hat Pirates",
+      "logo": "https://raw.githubusercontent.com/Imrxng/fotosProjectWEB/main/strawhats.webp",
+      "captain": "Monkey D. Luffy",
+      "base": "Thousand Sunny",
+      "territory": "Grand Line",
+      "totalBounty": 8816001000
+    }
+  },
+  {
+    "id": 6,
+    "name": "Tony Tony Chopper",
+    "description": "Talking reindeer and the crew's doctor.",
+    "age": 17,
+    "devilFruit": "Hito Hito no Mi",
+    "entryDate": "2003-12-24",
+    "bounty": 1000,
+    "profileImageUrl": "https://raw.githubusercontent.com/Imrxng/fotosProjectWEB/main/chopper.webp",
+    "isOnline": true,
+    "position": "Pirate",
+    "hobbies": [
+      "Medicine",
+      "Exploring herbs",
+      "Cotton candy"
+    ],
+    "group": {
+      "id": 3001,
+      "name": "Straw Hat Pirates",
+      "logo": "https://raw.githubusercontent.com/Imrxng/fotosProjectWEB/main/strawhats.webp",
+      "captain": "Monkey D. Luffy",
+      "base": "Thousand Sunny",
+      "territory": "Grand Line",
+      "totalBounty": 8816001000
+    }
+  },
+  {
+    "id": 8,
+    "name": "Nico Robin",
+    "description": "Archaeologist and historian of the Straw Hat Pirates.",
+    "age": 30,
+    "devilFruit": "Hana Hana no Mi",
+    "entryDate": "2001-04-05",
+    "bounty": 930000000,
+    "profileImageUrl": "https://raw.githubusercontent.com/Imrxng/fotosProjectWEB/main/robin.webp",
+    "isOnline": true,
+    "position": "Pirate",
+    "hobbies": [
+      "Reading",
+      "Archaeology",
+      "Poneglyphs"
+    ],
+    "group": {
+      "id": 3001,
+      "name": "Straw Hat Pirates",
+      "logo": "https://raw.githubusercontent.com/Imrxng/fotosProjectWEB/main/strawhats.webp",
+      "captain": "Monkey D. Luffy",
+      "base": "Thousand Sunny",
+      "territory": "Grand Line",
+      "totalBounty": 8816001000
+    }
+  },
+  {
+    "id": 10,
+    "name": "Boa Hancock",
+    "description": "Empress of the Kuja Pirates and Warlord of the Sea.",
+    "age": 29,
+    "devilFruit": "Mero Mero no Mi",
+    "entryDate": "2003-06-02",
+    "bounty": 1659000000,
+    "profileImageUrl": "https://raw.githubusercontent.com/Imrxng/fotosProjectWEB/main/hancock.webp",
+    "isOnline": true,
+    "position": "Pirate",
+    "hobbies": [
+      "Alphabetizing snakes",
+      "Fighting",
+      "Sculpture"
+    ],
+    "group": {
+      "id": 3204,
+      "name": "Kuja Pirates",
+      "logo": "https://raw.githubusercontent.com/Imrxng/fotosProjectWEB/main/kuja.webp",
+      "captain": "Boa Hancock",
+      "base": "Amazon Lily",
+      "territory": "Calm Belt",
+      "totalBounty": 1739000000
+    }
+  },
+  {
+    "id": 38,
+    "name": "Charlotte Perospero",
+    "description": "Minister of Candy and Charlotte Family member.",
+    "age": 50,
+    "devilFruit": "Buku Buku no Mi",
+    "entryDate": "1998-12-20",
+    "bounty": 700000000,
+    "profileImageUrl": "https://raw.githubusercontent.com/Imrxng/fotosProjectWEB/main/perospero.webp",
+    "isOnline": false,
+    "position": "Pirate",
+    "hobbies": [
+      "Candy crafting",
+      "Political strategy",
+      "Chess"
+    ],
+    "group": {
+      "id": 3211,
+      "name": "Big Mom Pirates",
+      "logo": "https://raw.githubusercontent.com/Imrxng/fotosProjectWEB/main/bigmom.webp",
+      "captain": "Charlotte Katakuri",
+      "base": "Whole Cake Island",
+      "territory": "New World",
+      "totalBounty": 10121500000
+    }
+  },
+  {
+    "id": 19,
+    "name": "Charlotte Katakuri",
+    "description": "Commander of the Big Mom Pirates' Sweet Commanders.",
+    "age": 48,
+    "devilFruit": "Mochi Mochi no Mi",
+    "entryDate": "2001-11-28",
+    "bounty": 1057000000,
+    "profileImageUrl": "https://raw.githubusercontent.com/Imrxng/fotosProjectWEB/main/katakuri.webp",
+    "isOnline": true,
+    "position": "Pirate",
+    "hobbies": [
+      "Mochi crafting",
+      "Observing",
+      "Tea ceremonies"
+    ],
+    "group": {
+      "id": 3211,
+      "name": "Big Mom Pirates",
+      "logo": "https://raw.githubusercontent.com/Imrxng/fotosProjectWEB/main/bigmom.webp",
+      "captain": "Charlotte Katakuri",
+      "base": "Whole Cake Island",
+      "territory": "New World",
+      "totalBounty": 10121500000
+    }
+  },
+  {
+    "id": 37,
+    "name": "Emporio Ivankov",
+    "description": "Queen of the Kamabakka Kingdom and leader of the Newkama Land.",
+    "age": 49,
+    "devilFruit": "Horu Horu no Mi",
+    "entryDate": "2008-06-02",
+    "bounty": 100000000,
+    "profileImageUrl": "https://raw.githubusercontent.com/Imrxng/fotosProjectWEB/main/ivankov.webp",
+    "isOnline": false,
+    "position": "Revolutionary",
+    "hobbies": [
+      "Newkama Kenpo",
+      "Revolutionary activities",
+      "Fashion design"
+    ],
+    "group": {
+      "id": 3210,
+      "name": "Revolutionary Army",
+      "logo": "https://raw.githubusercontent.com/Imrxng/fotosProjectWEB/main/revolutionary.webp",
+      "captain": "Monkey D. Dragon",
+      "base": "Kamabakka Kingdom",
+      "territory": "Grand Line",
+      "totalBounty": 2564000000
+    }
+  },
+  {
+    "id": 31,
+    "name": "Bepo",
+    "description": "Pirate and member of the Heart Pirates.",
+    "age": 27,
+    "devilFruit": null,
+    "entryDate": "2011-01-12",
+    "bounty": 500,
+    "profileImageUrl": "https://raw.githubusercontent.com/Imrxng/fotosProjectWEB/main/bepo.webp",
+    "isOnline": true,
+    "position": "Pirate",
+    "hobbies": [
+      "Martial arts",
+      "Reading",
+      "Exploring"
+    ],
+    "group": {
+      "id": 3202,
+      "name": "Heart Pirates",
+      "logo": "https://raw.githubusercontent.com/Imrxng/fotosProjectWEB/main/heart.webp",
+      "captain": "Trafalgar D. Water Law",
+      "base": "Sabaody Archipelago",
+      "territory": "New World",
+      "totalBounty": 3000000500
+    }
+  },
+  {
+    "id": 7,
+    "name": "Trafalgar D. Water Law",
+    "description": "The captain of the Heart Pirates.",
+    "age": 26,
+    "devilFruit": "Ope Ope no Mi",
+    "entryDate": "2010-08-15",
+    "bounty": 3000000000,
+    "profileImageUrl": "https://raw.githubusercontent.com/Imrxng/fotosProjectWEB/main/law.webp",
+    "isOnline": true,
+    "position": "Pirate",
+    "hobbies": [
+      "Swordsmanship",
+      "Surgeon skills",
+      "Strategizing"
+    ],
+    "group": {
+      "id": 3202,
+      "name": "Heart Pirates",
+      "logo": "https://raw.githubusercontent.com/Imrxng/fotosProjectWEB/main/heart.webp",
+      "captain": "Trafalgar D. Water Law",
+      "base": "Sabaody Archipelago",
+      "territory": "New World",
+      "totalBounty": 3000000500
+    }
+  },
+  {
+    "id": 39,
+    "name": "Isho Fujitora",
+    "description": "Admiral in the Marines and user of the Gravity-Gravity Fruit.",
+    "age": 55,
+    "devilFruit": "Zushi Zushi no Mi",
+    "entryDate": "2013-03-14",
+    "bounty": 40000000000,
+    "profileImageUrl": "https://raw.githubusercontent.com/Imrxng/fotosProjectWEB/main/fujitora.webp",
+    "isOnline": false,
+    "position": "Marine",
+    "hobbies": [
+      "Swordsmanship",
+      "Gambling",
+      "Promoting justice"
+    ],
+    "group": {
+      "id": 3214,
+      "name": "Marines",
+      "logo": "https://raw.githubusercontent.com/Imrxng/fotosProjectWEB/main/marine.webp",
+      "captain": "Sakazuki Akainu",
+      "base": "Marine Headquarters",
+      "territory": "Worldwide",
+      "totalBounty": 170000000000
+    }
+  },
+  {
+    "id": 23,
+    "name": "Koby",
+    "description": "Marine officer and protege of Vice Admiral Garp.",
+    "age": 20,
+    "devilFruit": null,
+    "entryDate": "2003-05-20",
+    "bounty": 500000000,
+    "profileImageUrl": "https://raw.githubusercontent.com/Imrxng/fotosProjectWEB/main/koby.webp",
+    "isOnline": true,
+    "position": "Marine",
+    "hobbies": [
+      "Training",
+      "Justice pursuit",
+      "Navigation"
+    ],
+    "group": {
+      "id": 3214,
+      "name": "Marines",
+      "logo": "https://raw.githubusercontent.com/Imrxng/fotosProjectWEB/main/marine.webp",
+      "captain": "Sakazuki Akainu",
+      "base": "Marine Headquarters",
+      "territory": "Worldwide",
+      "totalBounty": 170000000000
+    }
+  },
+  {
+    "id": 35,
+    "name": "Marshall D. Teach",
+    "description": "Captain of the Blackbeard Pirates.",
+    "age": 44,
+    "devilFruit": "Yami Yami no Mi",
+    "entryDate": "2004-11-25",
+    "bounty": 3996000000,
+    "profileImageUrl": "https://raw.githubusercontent.com/Imrxng/fotosProjectWEB/main/blackbeard.webp",
+    "isOnline": false,
+    "position": "Pirate",
+    "hobbies": [
+      "Conquering territories",
+      "Collecting devil fruits",
+      "Studying history"
+    ],
+    "group": {
+      "id": 3218,
+      "name": "Blackbeard Pirates",
+      "logo": "https://raw.githubusercontent.com/Imrxng/fotosProjectWEB/main/blackbeardpirates.webp",
+      "captain": "Marshall D. Teach",
+      "base": "Pirate Island",
+      "territory": "New World",
+      "totalBounty": 4194200000
+    }
+  },
+  {
+    "id": 36,
+    "name": "Dracule Mihawk",
+    "description": "World's Greatest Swordsman and former Warlord of the Sea.",
+    "age": 43,
+    "devilFruit": null,
+    "entryDate": "2000-09-03",
+    "bounty": 3590000000,
+    "profileImageUrl": "https://raw.githubusercontent.com/Imrxng/fotosProjectWEB/main/mihawk.webp",
+    "isOnline": true,
+    "position": "Pirate",
+    "hobbies": [
+      "Swordsmanship",
+      "Solo travels",
+      "Fine dining"
+    ],
+    "group": {
+      "id": 4001,
+      "name": "Cross Guild",
+      "logo": "https://raw.githubusercontent.com/Imrxng/fotosProjectWEB/main/crossguildpirates.webp",
+      "captain": "Buggy The Clown",
+      "base": null,
+      "territory": "Worldwide",
+      "totalBounty": 8848000000
+    }
+  },
+  {
+    "id": 25,
+    "name": "Donquixote Doflamingo",
+    "description": "Former Shichibukai and captain of the Donquixote Pirates.",
+    "age": 45,
+    "devilFruit": "Ito Ito no Mi",
+    "entryDate": "2000-03-12",
+    "bounty": 340000000,
+    "profileImageUrl": "https://raw.githubusercontent.com/Imrxng/fotosProjectWEB/main/doflamingo.webp",
+    "isOnline": true,
+    "position": "Pirate",
+    "hobbies": [
+      "Controlling puppets",
+      "Underground business",
+      "Scheming"
+    ],
+    "group": {
+      "id": 3215,
+      "name": "Donquixote Pirates",
+      "logo": "https://raw.githubusercontent.com/Imrxng/fotosProjectWEB/main/donquixotepirates.webp",
+      "captain": "Donquixote Doflamingo",
+      "base": "Dressrosa",
+      "territory": "New World",
+      "totalBounty": 813000000
+    }
+  },
+  {
+    "id": 22,
+    "name": "Buggy The Clown",
+    "description": "One of the four emperors and captain of the Cross Guild and former member of the Roger Pirates.",
+    "age": 39,
+    "devilFruit": "Bara Bara no Mi",
+    "entryDate": "1998-02-14",
+    "bounty": 3189000000,
+    "profileImageUrl": "https://raw.githubusercontent.com/Imrxng/fotosProjectWEB/main/buggy.webp",
+    "isOnline": false,
+    "position": "Pirate",
+    "hobbies": [
+      "Creating chaos",
+      "Stand-up comedy",
+      "Treasure hunting"
+    ],
+    "group": {
+      "id": 4001,
+      "name": "Cross Guild",
+      "logo": "https://raw.githubusercontent.com/Imrxng/fotosProjectWEB/main/crossguildpirates.webp",
+      "captain": "Buggy The Clown",
+      "base": null,
+      "territory": "Worldwide",
+      "totalBounty": 8848000000
+    }
+  },
+  {
+    "id": 16,
+    "name": "Kuzan",
+    "description": "Former admiral and current captain of the tenth ship of the Blackbeard Pirates.",
+    "age": 54,
+    "devilFruit": "Hie Hie no Mi",
+    "entryDate": "2016-08-01",
+    "bounty": 2000000000,
+    "profileImageUrl": "https://raw.githubusercontent.com/Imrxng/fotosProjectWEB/main/kuzan.webp",
+    "isOnline": true,
+    "position": "Pirate",
+    "hobbies": [
+      "Justice pursuits",
+      "Exploring",
+      "Ice sculpting"
+    ],
+    "group": {
+      "id": 3218,
+      "name": "Blackbeard Pirates",
+      "logo": "https://raw.githubusercontent.com/Imrxng/fotosProjectWEB/main/blackbeardpirates.webp",
+      "captain": "Marshall D. Teach",
+      "base": "Pirate Island",
+      "territory": "New World",
+      "totalBounty": 4194200000
+    }
+  },
+  {
+    "id": 30,
+    "name": "Sakazuki Akainu",
+    "description": "Fleet Admiral in the Marines and user of the Magma-Magma Fruit.",
+    "age": 54,
+    "devilFruit": "Magu Magu no Mi",
+    "entryDate": "1985-04-30",
+    "bounty": 40000000000,
+    "profileImageUrl": "https://raw.githubusercontent.com/Imrxng/fotosProjectWEB/main/akainu.webp",
+    "isOnline": true,
+    "position": "Marine",
+    "hobbies": [
+      "Volcano hiking",
+      "Strategic planning",
+      "Koi fish keeping"
+    ],
+    "group": {
+      "id": 3214,
+      "name": "Marines",
+      "logo": "https://raw.githubusercontent.com/Imrxng/fotosProjectWEB/main/marine.webp",
+      "captain": "Sakazuki Akainu",
+      "base": "Marine Headquarters",
+      "territory": "Worldwide",
+      "totalBounty": 170000000000
+    }
+  },
+  {
+    "id": 65,
+    "name": "Sabo",
+    "description": "Chief of Staff of the Revolutionary Army and user of the Fire-Fire Fruit.",
+    "age": 22,
+    "devilFruit": "Mera Mera no Mi",
+    "entryDate": "2014-05-05",
+    "bounty": 602000000,
+    "profileImageUrl": "https://raw.githubusercontent.com/Imrxng/fotosProjectWEB/main/sabo.webp",
+    "isOnline": false,
+    "position": "Revolutionary",
+    "hobbies": [
+      "Reading",
+      "Dragon riding",
+      "Fireworks crafting"
+    ],
+    "group": {
+      "id": 3210,
+      "name": "Revolutionary Army",
+      "logo": "https://raw.githubusercontent.com/Imrxng/fotosProjectWEB/main/revolutionary.webp",
+      "captain": "Monkey D. Dragon",
+      "base": "Kamabakka Kingdom",
+      "territory": "Grand Line",
+      "totalBounty": 2564000000
+    }
+  },
+  {
+    "id": 20,
+    "name": "Portgas D. Ace",
+    "description": "Commander of the Whitebeard Pirates' 2nd Division and user of the Fire-Fire Fruit.",
+    "age": 20,
+    "devilFruit": "Mera Mera no Mi",
+    "entryDate": "2007-02-10",
+    "bounty": 550000000,
+    "profileImageUrl": "https://raw.githubusercontent.com/Imrxng/fotosProjectWEB/main/ace.webp",
+    "isOnline": false,
+    "position": "Pirate",
+    "hobbies": [
+      "Fire manipulation",
+      "Spelunking",
+      "Beach volleyball"
+    ],
+    "group": {
+      "id": 3208,
+      "name": "Whitebeard Pirates",
+      "logo": "https://raw.githubusercontent.com/Imrxng/fotosProjectWEB/main/whitebeardpirates.webp ",
+      "captain": "Edward Newgate",
+      "base": "Sphinx",
+      "territory": "New World",
+      "totalBounty": 7480000000
+    }
+  },
+  {
     "id": 60,
     "name": "Edward Newgate",
     "description": "One of the most powerful pirates in the world and captain of the Whitebeard Pirates.",
@@ -692,92 +691,92 @@
       "Playing chess",
       "Listening to sea shanties"
     ],
-   "group": {
-          "id": 3208,
-          "name": "Whitebeard Pirates",
-          "logo": "https://raw.githubusercontent.com/Imrxng/fotosProjectWEB/main/whitebeardpirates.webp ",
-          "captain": "Edward Newgate",
-          "base": "Sphinx",
-          "territory": "New World",
-          "totalBounty": 7480000000
-        }
-     },
-    {
-      "id": 61,
-      "name": "Charlotte Linlin",
-      "description": "One of the Yonko, ruling over Totland and captain of the Big Mom Pirates.",
-      "age": 68,
-      "devilFruit": "Soru Soru no Mi",
-      "entryDate": "1960-12-25",
-      "bounty": 4800000000,
-      "profileImageUrl": "https://raw.githubusercontent.com/Imrxng/fotosProjectWEB/main/bigmom.webp",
-      "isOnline": true,
-      "position": "Pirate",
-      "hobbies": [
-        "Baking sweets",
-        "Collecting rare creatures",
-        "Gardening"
-      ],
-      "group": {
-            "id": 3211,
-            "name": "Big Mom Pirates",
-            "logo": "https://raw.githubusercontent.com/Imrxng/fotosProjectWEB/main/bigmom.webp",
-            "captain": "Charlotte Katakuri",
-            "base": "Whole Cake Island",
-            "territory": "New World",
-            "totalBounty": 10121500000
-      }
-    },
-    {
-      "id": 62,
-      "name": "Monkey D. Dragon",
-      "description": "The most wanted man in the world and leader of the Revolutionary Army.",
-      "age": 55,
-      "devilFruit": "unknown",
-      "entryDate": "1980-04-18",
-      "bounty": 5000000000,
-      "profileImageUrl": "https://raw.githubusercontent.com/Imrxng/fotosProjectWEB/main/dragon.webp",
-      "isOnline": true,
-      "position": "Revolutionary",
-      "hobbies": [
-        "Studying history",
-        "Training revolutionaries",
-        "Exploring the world"
-      ],
     "group": {
-            "id": 3210,
-            "name": "Revolutionary Army",
-            "logo": "https://raw.githubusercontent.com/Imrxng/fotosProjectWEB/main/revolutionary.webp",
-            "captain": "Monkey D. Dragon",
-            "base": "Kamabakka Kingdom",
-            "territory": "Grand Line",
-            "totalBounty": 2564000000
-      }
-    },
-    {
-      "id": 63,
-      "name": "Marshall D. Teach",
-      "description": "A former member of the Whitebeard Pirates and one of the Yonko. He aims to become the Pirate King.",
-      "age": 40,
-      "devilFruit": "Yami Yami no Mi, Gura Gura no Mi",
-      "entryDate": "2000-07-15",
-      "bounty": 2200000000,
-      "profileImageUrl": "https://raw.githubusercontent.com/Imrxng/fotosProjectWEB/main/blackbeard.webp",
-      "isOnline": true,
-      "position": "Pirate",
-      "hobbies": [
-        "Studying ancient texts",
-        "Seeking power",
-        "Playing mind games"
-      ],
-     "group": {
-            "id": 3218,
-            "name": "Blackbeard Pirates",
-            "logo": "https://raw.githubusercontent.com/Imrxng/fotosProjectWEB/main/blackbeardpirates.webp",
-            "captain": "Marshall D. Teach",
-            "base": "Pirate Island",
-            "territory": "New World",
-            "totalBounty": 4194200000	
-        }
+      "id": 3208,
+      "name": "Whitebeard Pirates",
+      "logo": "https://raw.githubusercontent.com/Imrxng/fotosProjectWEB/main/whitebeardpirates.webp ",
+      "captain": "Edward Newgate",
+      "base": "Sphinx",
+      "territory": "New World",
+      "totalBounty": 7480000000
     }
+  },
+  {
+    "id": 61,
+    "name": "Charlotte Linlin",
+    "description": "One of the Yonko, ruling over Totland and captain of the Big Mom Pirates.",
+    "age": 68,
+    "devilFruit": "Soru Soru no Mi",
+    "entryDate": "1960-12-25",
+    "bounty": 4800000000,
+    "profileImageUrl": "https://raw.githubusercontent.com/Imrxng/fotosProjectWEB/main/bigmom.webp",
+    "isOnline": true,
+    "position": "Pirate",
+    "hobbies": [
+      "Baking sweets",
+      "Collecting rare creatures",
+      "Gardening"
+    ],
+    "group": {
+      "id": 3211,
+      "name": "Big Mom Pirates",
+      "logo": "https://raw.githubusercontent.com/Imrxng/fotosProjectWEB/main/bigmom.webp",
+      "captain": "Charlotte Katakuri",
+      "base": "Whole Cake Island",
+      "territory": "New World",
+      "totalBounty": 10121500000
+    }
+  },
+  {
+    "id": 62,
+    "name": "Monkey D. Dragon",
+    "description": "The most wanted man in the world and leader of the Revolutionary Army.",
+    "age": 55,
+    "devilFruit": "unknown",
+    "entryDate": "1980-04-18",
+    "bounty": 5000000000,
+    "profileImageUrl": "https://raw.githubusercontent.com/Imrxng/fotosProjectWEB/main/dragon.webp",
+    "isOnline": true,
+    "position": "Revolutionary",
+    "hobbies": [
+      "Studying history",
+      "Training revolutionaries",
+      "Exploring the world"
+    ],
+    "group": {
+      "id": 3210,
+      "name": "Revolutionary Army",
+      "logo": "https://raw.githubusercontent.com/Imrxng/fotosProjectWEB/main/revolutionary.webp",
+      "captain": "Monkey D. Dragon",
+      "base": "Kamabakka Kingdom",
+      "territory": "Grand Line",
+      "totalBounty": 2564000000
+    }
+  },
+  {
+    "id": 63,
+    "name": "Marshall D. Teach",
+    "description": "A former member of the Whitebeard Pirates and one of the Yonko. He aims to become the Pirate King.",
+    "age": 40,
+    "devilFruit": "Yami Yami no Mi, Gura Gura no Mi",
+    "entryDate": "2000-07-15",
+    "bounty": 2200000000,
+    "profileImageUrl": "https://raw.githubusercontent.com/Imrxng/fotosProjectWEB/main/blackbeard.webp",
+    "isOnline": true,
+    "position": "Pirate",
+    "hobbies": [
+      "Studying ancient texts",
+      "Seeking power",
+      "Playing mind games"
+    ],
+    "group": {
+      "id": 3218,
+      "name": "Blackbeard Pirates",
+      "logo": "https://raw.githubusercontent.com/Imrxng/fotosProjectWEB/main/blackbeardpirates.webp",
+      "captain": "Marshall D. Teach",
+      "base": "Pirate Island",
+      "territory": "New World",
+      "totalBounty": 4194200000
+    }
+  }
 ]
