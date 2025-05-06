@@ -1,4 +1,4 @@
-```mermaid
+%% Mermaid Flowchart
 flowchart TD
     A[Start: Klik op Login] --> B[Redirect naar Microsoft Authenticate]
     B --> C[Voer e-mailadres in en klik op Volgende]
@@ -29,4 +29,3 @@ flowchart TD
     AA --> AB[Klik op Confirm]
     AB --> AC[Redirect naar /brightpolls]
     AC --> AD[End]
-```
